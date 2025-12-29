@@ -1,5 +1,6 @@
 #include <string>
 
-class Snake {
+class Apple
+{
 
 };

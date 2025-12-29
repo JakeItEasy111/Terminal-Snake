@@ -1,5 +1,5 @@
 #include <string>
 
-class Snake {
+class Game {
 
 };
